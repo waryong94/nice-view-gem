@@ -17,8 +17,6 @@ LOG_MODULE_DECLARE(zmk, CONFIG_ZMK_LOG_LEVEL);
 #include <zmk/keymap.h>
 #include <zmk/usb.h>
 
-
-#include "animation.h"
 #include "battery.h"
 #include "layer.h"
 #include "output.h"
